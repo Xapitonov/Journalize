@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/new_entry"
+        android:title="Сделать новую запись" />
+    <item
+        android:id="@id/select_all_shown"
+        android:title="Выбрать/снять все записи" />
+    <item
+        android:id="@id/delete_selected"
+        android:title="Удалить выбранное" />
+    <item
+        android:id="@id/settings"
+        android:title="Настройки" />
+</menu>
