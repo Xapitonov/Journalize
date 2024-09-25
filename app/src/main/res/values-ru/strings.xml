@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">журнал</string>
+    <string name="menu">Меню</string>
+    <string name="tag_toggle">Показать/спрятать теги</string>
+    <string name="search_content">Поиск материала</string>
+    <string name="menu_main">Меню</string>
+    <string name="render">Осмотр</string>
+    <string name="media">Медиа</string>
+    <string name="last">Ранее </string>
+    <string name="new_entry">Новый</string>
+    <string name="choose_save_directory">Выберите каталог экспорта</string>
+    <string name="dark_mode">Тёмный режим</string>
+    <string name="delete_entries">Удалить записи</string>
+    <string name="export_entries">Экспорт записей</string>
+    <string name="import_entries">Импорт записей</string>
+    <string name="light_mode">Светлый режим</string>
+    <string name="share_entries">Поделиться записями</string>
+    <string name="enter_tags">Введите теги</string>
+    <string name="edit_tags_comma_separated">Редактировать теги (через запятую):</string>
+    <string name="select_theme">Выберите тему:</string>
+    <string name="enter_seconds">Введите секунды</string>
+    <string name="inactivity_duration_in_seconds">Длительность (в секундах) для автооткрытия новой записи при повторном запуске приложения</string>
+    <string name="view_or_edit_entries_json_directly">Вид и правка записей JSON напрямую</string>
+    <string name="apply">Применять</string>
+    <string name="edit_json_here">Редактировать JSON здесь</string>
+    <string name="entry_content">Входное материал</string>
+    <string name="entry_image_1">Входное изображение 1</string>
+    <string name="entry_image_2">Входное изображение 2</string>
+    <string name="entry_image_3">Входное изображение 3</string>
+    <string name="entry_image_4">Входное изображение 4</string>
+    <string name="modified_x_days_ago_created_on_coordinates">Изменено X дней назад | Создано | Координаты</string>
+    <string name="tags">Теги</string>
+    <string name="edit">Правка</string>
+    <string name="view_the_project_on_github">Посмотреть проект на Гитхабе</string>
+</resources>
