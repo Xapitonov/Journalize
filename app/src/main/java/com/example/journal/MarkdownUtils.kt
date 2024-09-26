@@ -188,7 +188,7 @@ object MarkdownUtils {
     fun toggleRenderMode(context: Context, isEditMode: Boolean, editText: EditText, renderedTextView: TextView, renderButton: Button): Boolean {
         return if (isEditMode) {
             renderMarkdown(context, editText.text.toString(), renderedTextView)
-            renderButton.text = "Edit"
+            renderButton.text = "Текст"
             editText.visibility = View.GONE
             renderedTextView.visibility = View.VISIBLE
             KeyboardUtils.hideKeyboard(context, renderButton)
@@ -196,7 +196,7 @@ object MarkdownUtils {
         } else {
             editText.visibility = View.VISIBLE
             renderedTextView.visibility = View.GONE
-            renderButton.text = "Render"
+            renderButton.text = "Обзор"
             KeyboardUtils.showKeyboard(context, editText)
             true
         }
